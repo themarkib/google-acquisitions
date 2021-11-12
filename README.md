@@ -15,6 +15,13 @@ This is the list of all the active acquistions acquired by google.This will be h
 |Blogger|https://www.blogger.com/|
 |Crashyltic|https://firebase.google.com/products/crashlytics|
 |DropClick|https://doubleclick.com|
+|FameBit| https://support.google.com/youtube/answer/9385307 |
+|FeedBurner | https://feedburner.google.com |
+|Fflick | http://fflick.com|
+|Firebase | https://firebase.google.com|
+|Fitbit |https://www.fitbit.com/global/us/home|
+|Flutter |https://flutter.dev/|
+
 
 
 ## How can i find that the site is acquired by google.
