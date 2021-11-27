@@ -35,6 +35,7 @@ This is the list of all the active acquistions acquired by google.This will be h
 | Looker | https://looker.com/ |
 | Meebo | http://meebo.com/ |
 | Metaweb | http://metaweb.com/ |
+| North | www.bynorth.com/ |
 | Orbitera | http://orbitera.com/ |
 | Owlchemy Labs | https://owlchemylabs.com |
 | Panoramio | http://www.panoramio.com |
@@ -50,6 +51,7 @@ This is the list of all the active acquistions acquired by google.This will be h
 | Stackdriver | https://cloud.google.com/products/operations |
 | Tenor | http://tenor.com |
 | Trendalyzer | http://trendalyzer.com |
+| Tempow | https://www.tempow.com/ |
 | Typhoon Studios | https://stadia.google.com |
 | Wavii | http://wavii.com |
 | Waze | https://www.waze.com |
@@ -65,4 +67,4 @@ This is the list of all the active acquistions acquired by google.This will be h
 
 
 
-## Source : [Wikipedia](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet)
+## Source : [Wikipedia](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet), [CrunchBase](https://www.crunchbase.com/organization/google/)   
