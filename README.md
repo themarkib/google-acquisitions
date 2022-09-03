@@ -23,36 +23,42 @@ This is the list of all the active acquistions acquired by google.This will be h
 |Flutter |https://flutter.dev/|
 | Google Earth | https://earth.google.com/web/ |
 | Google Groups | https://groups.google.com/ |
-|Google Maps | https://www.google.com/maps |
+| Google Maps | https://www.google.com/maps |
 | Google Sites | https://sites.google.com |
 | Google Store | https://store.google.com |
 | Google Translate | https://translate.google.com |
 | Google Voice | https://voice.google.com |
 | Impermium | http://impermium.com/ |
 | Kaggle | https://www.kaggle.com/ |
-|Kaltix | http://kaltix.com/ |
+| Kaltix | http://kaltix.com/ |
 | Like | http://like.com/ |
 | Looker | https://looker.com/ |
+| Mandiant | https://www.mandiant.com | 
 | Meebo | http://meebo.com/ |
 | Metaweb | http://metaweb.com/ |
+| MuJoCo | https://mujoco.org | 
 | North | www.bynorth.com/ |
 | Orbitera | http://orbitera.com/ |
 | Owlchemy Labs | https://owlchemylabs.com |
 | Panoramio | http://www.panoramio.com |
+| Play Space | https://play.space |
 | Plinkart | http://plinkart.com |
 | Postini | https://postini.com |
 | Postrank | https://postrank.com |
 | Quest Visual | https://translate.google.com |
+| Raxium | https://www.raxium.com |
 | Recaptcha | https://recaptcha.com |
 | Redwood Robotics | http://redwoodrobotics.com |
 | RightsFlow | http://rightsflow.com |
 | SageTV | http://sagetv.com |
+| Siemplify | https://www.siemplify.co | 
 | Socratic | https://socratic.com |
 | Stackdriver | https://cloud.google.com/products/operations |
 | Tenor | http://tenor.com |
 | Trendalyzer | http://trendalyzer.com |
 | Tempow | https://www.tempow.com/ |
 | Typhoon Studios | https://stadia.google.com |
+| Vicarious | https://www.vicarious.com |
 | Wavii | http://wavii.com |
 | Waze | https://www.waze.com |
 | Wildfire Interactive | http://wildfireinteractive.com |
